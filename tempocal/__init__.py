@@ -1,1 +1,1 @@
-from .calendar import TemplatedCalendar  # noqa
+from .tempocalendar import TemplatedCalendar  # noqa
